@@ -12,13 +12,11 @@ public class Character
         }
         return true;
     }
-    public int Attack(Character chk){
+    public void Attack(Character chk){
         chk.pv = chk.pv - (this.force - chk.defense);
         if(!chk.IsAlive()){
             Console.WriteLine("Game Over");
-            return 0;
         }
-        return chk.pv;
     }
     public static void Main(string[] args){
         Character c1 = new Character();
