@@ -1,0 +1,15 @@
+C:\Informatique\CSharp\wildschool\gameAttack\bin\Debug\net7.0\gameAttack.exe
+C:\Informatique\CSharp\wildschool\gameAttack\bin\Debug\net7.0\gameAttack.deps.json
+C:\Informatique\CSharp\wildschool\gameAttack\bin\Debug\net7.0\gameAttack.runtimeconfig.json
+C:\Informatique\CSharp\wildschool\gameAttack\bin\Debug\net7.0\gameAttack.dll
+C:\Informatique\CSharp\wildschool\gameAttack\bin\Debug\net7.0\gameAttack.pdb
+C:\Informatique\CSharp\wildschool\gameAttack\obj\Debug\net7.0\gameAttack.csproj.AssemblyReference.cache
+C:\Informatique\CSharp\wildschool\gameAttack\obj\Debug\net7.0\gameAttack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informatique\CSharp\wildschool\gameAttack\obj\Debug\net7.0\gameAttack.AssemblyInfoInputs.cache
+C:\Informatique\CSharp\wildschool\gameAttack\obj\Debug\net7.0\gameAttack.AssemblyInfo.cs
+C:\Informatique\CSharp\wildschool\gameAttack\obj\Debug\net7.0\gameAttack.csproj.CoreCompileInputs.cache
+C:\Informatique\CSharp\wildschool\gameAttack\obj\Debug\net7.0\gameAttack.dll
+C:\Informatique\CSharp\wildschool\gameAttack\obj\Debug\net7.0\refint\gameAttack.dll
+C:\Informatique\CSharp\wildschool\gameAttack\obj\Debug\net7.0\gameAttack.pdb
+C:\Informatique\CSharp\wildschool\gameAttack\obj\Debug\net7.0\gameAttack.genruntimeconfig.cache
+C:\Informatique\CSharp\wildschool\gameAttack\obj\Debug\net7.0\ref\gameAttack.dll
